@@ -17,21 +17,21 @@ My expertise aligns with modern infrastructure goals, focusing on **Cloud Modern
 | **Data & Core Tech** | Python (Pandas, Numpy, Dask), PySpark, SQL, NoSQL, OOP |
 | **Specializations** | Generative AI (LLMs, RAG, LangChain), ASR, Time Series Forecasting, Anomaly Detection |
 
+---
 
-<h3 align="center">🧑‍💻Frequently Used Technologies🧑‍💻</h3>
+<h3 align="center">🔥GitHub Statistics🔥</h3>
 
-<div id="user-content-toc">
-  <ul align="center">
-    <!-- <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary> -->
-  </ul>
-</div>
-<!--tech stack icons by skillicons.dev-->
+<!-- custom streak stats: https://git.io/streak-stats -->
 <p align="center">
-<a href="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,fastapi,aws,git,anaconda,matlab&perline=6">
-<img src="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,fastapi,aws,git,anaconda,matlab&perline=6" />
-</a>
+  <picture>
+    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman-shamasna&hide_border=true&theme=nightowl" />
+</p>
+<p align="center">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sulaiman-shamasna&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaiman-shamasna&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
 
+![](/assets/images/grad.gif)
 
 ---
 
