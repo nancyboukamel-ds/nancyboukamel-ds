@@ -25,4 +25,3 @@ My expertise aligns with modern infrastructure goals, focusing on **Cloud Modern
 
 * **LinkedIn:** [https://www.linkedin.com/in/nancy-bou-kamel/] 
 * **Email:** nancyboukamel12@gmail.com
-* **Current Location:** Welver, Germany
