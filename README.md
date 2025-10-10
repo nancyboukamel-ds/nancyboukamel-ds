@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Nancy Bou Kamel 👋
 
-<!--
-**nancyboukamel-ds/nancyboukamel-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 Data Scientist | MLOps Engineer | Production-Grade AI Architect
 
-Here are some ideas to get you started:
+I am a result-driven Data Science professional specializing in the **end-to-end development and deployment of resource-optimized AI systems**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My expertise aligns with modern infrastructure goals, focusing on **Cloud Modernization (AWS)**, **MLOps**, and **production engineering services** to drive measurable business value. I leverage advanced Deep Learning (PyTorch) and robust engineering practices (CI/CD, Docker, clean code) to build scalable, reliable, and secure solutions.
+
+* **Seeking a long-term career in Applied Science/ML Engineering with a focus on Finance and Technology Innovation.***
+
+  ---
+
+## 💻 Technical Toolkit
+
+| Category | Tools & Frameworks |
+| :--- | :--- |
+| **Deep Learning** | PyTorch, TensorFlow, Transformers, CNN, RNN, Optuna, FastAPI |
+| **MLOps & Cloud** | **AWS (IAM, Lambda, S3, Step Functions)**, **Docker**, Git, CI/CD (Jenkins, CodePipeline), Linux |
+| **Data & Core Tech** | Python (Pandas, Numpy, Dask), PySpark, SQL, NoSQL, OOP |
+| **Specializations** | Generative AI (LLMs, RAG, LangChain), ASR, Time Series Forecasting, Anomaly Detection |
+
+---
+
+## 🤝 Connect with Me
+
+* **LinkedIn:** [https://www.linkedin.com/in/nancy-bou-kamel/] 
+* **Email:** nancyboukamel12@gmail.com
+* **Current Location:** Welver, Germany
