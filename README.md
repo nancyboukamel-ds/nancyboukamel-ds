@@ -6,8 +6,6 @@ I am a result-driven Data Science professional specializing in the **end-to-end 
 
 My expertise aligns with modern infrastructure goals, focusing on **Cloud Modernization (AWS)**, **MLOps**, and **production engineering services** to drive measurable business value. I leverage advanced Deep Learning (PyTorch) and robust engineering practices (CI/CD, Docker, clean code) to build scalable, reliable, and secure solutions.
 
-* **Seeking a long-term career in Applied Science/ML Engineering with a focus on Finance and Technology Innovation.***
-
   ---
 
 ## 💻 Technical Toolkit
