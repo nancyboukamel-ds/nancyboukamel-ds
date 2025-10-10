@@ -24,11 +24,11 @@ My expertise aligns with modern infrastructure goals, focusing on **Cloud Modern
 <!-- custom streak stats: https://git.io/streak-stats -->
 <p align="center">
   <picture>
-    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=sulaiman-shamasna&hide_border=true&theme=nightowl" />
+    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyboukamel-ds&hide_border=true&theme=nightowl" />
 </p>
 <p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=sulaiman-shamasna&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaiman-shamasna&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=nancyboukamel-ds&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyboukamel-ds&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
 
 ![](/assets/images/grad.gif)
