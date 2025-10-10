@@ -17,6 +17,22 @@ My expertise aligns with modern infrastructure goals, focusing on **Cloud Modern
 | **Data & Core Tech** | Python (Pandas, Numpy, Dask), PySpark, SQL, NoSQL, OOP |
 | **Specializations** | Generative AI (LLMs, RAG, LangChain), ASR, Time Series Forecasting, Anomaly Detection |
 
+
+<h3 align="center">🧑‍💻Frequently Used Technologies🧑‍💻</h3>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <!-- <summary><h3 style="display: inline-block">🧑‍💻Frequently Used Tech🧑‍💻</h3></summary> -->
+  </ul>
+</div>
+<!--tech stack icons by skillicons.dev-->
+<p align="center">
+<a href="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,fastapi,aws,git,anaconda,matlab&perline=6">
+<img src="https://deri.my.id/api/icons?i=python,tensorflow,azure,gitlab,pycharm,docker,cpp,pytorch,gcp,github,vscode,kubernetes,c,fastapi,aws,git,anaconda,matlab&perline=6" />
+</a>
+</p>
+
+
 ---
 
 ## 🤝 Connect with Me
