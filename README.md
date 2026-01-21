@@ -1,21 +1,19 @@
 # Hi, I'm Nancy Bou Kamel 👋
 
-### 💡 Data Scientist | MLOps Engineer | Production-Grade AI Architect
+### 💡 Data Engineer | Cloud Infrastructure & Data Architect 
 
-I am a result-driven Data Science professional specializing in the **end-to-end development and deployment of resource-optimized AI systems**.
-
-My expertise aligns with modern infrastructure goals, focusing on **Cloud Modernization (AWS)**, **MLOps**, and **production engineering services** to drive measurable business value. I leverage advanced Deep Learning (PyTorch) and robust engineering practices (CI/CD, Docker, clean code) to build scalable, reliable, and secure solutions.
+Result-driven Engineering professional specializing in building high-performance data platforms and scalable ETL/ELT pipelines. Expert in Cloud Modernization (AWS) and Data-Centric AI infrastructure, focusing on data reliability, governance, and low-latency delivery. I leverage Python (Expert), PySpark, and robust DevOps practices (CI/CD, Terraform) to transform raw data into production-ready assets for enterprise-scale analytics and AI.
 
   ---
 
 ## 💻 Technical Toolkit
 
-| Category | Tools & Frameworks |
-| :--- | :--- |
-| **Deep Learning** | PyTorch, TensorFlow, Transformers, CNN, RNN, Optuna, FastAPI |
-| **MLOps & Cloud** | **AWS (IAM, Lambda, S3, Step Functions)**, **Docker**, Git, CI/CD (Jenkins, CodePipeline), Linux |
-| **Data & Core Tech** | Python (Pandas, Numpy, Dask), PySpark, SQL, NoSQL, OOP |
-| **Specializations** | Generative AI (LLMs, RAG, LangChain), ASR, Time Series Forecasting, Anomaly Detection |
+Category,Transition Focus (What to highlight/learn)
+Data Orchestration,"Move from Step Functions to: Apache Airflow, Dagster, or Prefect. (Airflow is the standard in Germany)."
+Data Processing,"Move from Pandas to: PySpark (Expert level), Dask, and Flink (for real-time streaming)."
+Data Transformation,Master dbt (Data Build Tool): This is the bridge between SQL and software engineering.
+Storage & Warehouse,"Move from S3/Postgres to: Snowflake, Databricks (Lakehouse), or AWS Redshift."
+Infrastructure,Add Infrastructure as Code (IaC): Terraform or AWS CDK.
 
 ---
 
