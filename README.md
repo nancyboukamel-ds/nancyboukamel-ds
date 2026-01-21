@@ -8,12 +8,15 @@ Result-driven Engineering professional specializing in building high-performance
 
 ## 💻 Technical Toolkit
 
-Category,Transition Focus (What to highlight/learn)
-Data Orchestration,"Move from Step Functions to: Apache Airflow, Dagster, or Prefect. (Airflow is the standard in Germany)."
-Data Processing,"Move from Pandas to: PySpark (Expert level), Dask, and Flink (for real-time streaming)."
-Data Transformation,Master dbt (Data Build Tool): This is the bridge between SQL and software engineering.
-Storage & Warehouse,"Move from S3/Postgres to: Snowflake, Databricks (Lakehouse), or AWS Redshift."
-Infrastructure,Add Infrastructure as Code (IaC): Terraform or AWS CDK.
+| Category | Skills & Frameworks |
+| :--- | :--- |
+| **Data Orchestration** | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **Prefect · Cron · Automation** |
+| **Data Processing** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white) ![Dask](https://img.shields.io/badge/Dask-FBA308?style=flat-square&logo=dask&logoColor=white) **Pandas · NumPy · Distributed Computing** |
+| **Data Transformation** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) **ETL/ELT Architectures · Data Quality Frameworks · Great Expectations** |
+| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Lambda · S3 · API Gateway · Linux** |
+| **Storage & DBs** | ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **Vector Databases (ChromaDB, FAISS) · Redshift** |
+| **DevOps & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) **CodePipeline · Git · Clean Code** |
+| **AI Data Ops** | **Data Flywheels · Dataset Curation · Annotation Workflows · Model Performance Monitoring** |
 
 ---
 
