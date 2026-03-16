@@ -1,42 +1,43 @@
 # Hi, I'm Nancy Bou Kamel 👋
 
-### 💡 Data Engineer | Cloud Infrastructure & Data Architect 
+🎙️ Speech & Audio AI Engineer | ASR · TTS · Voice AI · LLM · Production ML
 
-Result-driven Engineering professional specializing in building high-performance data platforms and scalable ETL/ELT pipelines. Expert in Cloud Modernization (AWS) and Data-Centric AI infrastructure, focusing on data reliability, governance, and low-latency delivery. I leverage Python (Expert), PySpark, and robust DevOps practices (CI/CD, Terraform) to transform raw data into production-ready assets for enterprise-scale analytics and AI.
+Passionate about building AI systems that understand, generate, and reason about sound. My research and engineering practice lives at the intersection of speech recognition, acoustic modelling, and real-time voice AI — from embedded hardware to cloud-native conversational agents.
 
-  ---
+I completed my M.Sc. Data Science with a Thesis GPA of 1.0, dedicating my research to lightweight, noise-robust ASR on battery-powered embedded devices — compressing a 1 GB model to <500K parameters using Knowledge Distillation, achieving 75% latency reduction and Macro F1 >0.8 across all real-world noise conditions.
 
-## 💻 Technical Toolkit
+---
+
+💻 Technical Toolkit
 
 | Category | Skills & Frameworks |
-| :--- | :--- |
-| **Data Orchestration** | ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white) ![Step Functions](https://img.shields.io/badge/AWS%20Step%20Functions-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) **Prefect · Cron · Automation** |
-| **Data Processing** | ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=Apache%20Spark&logoColor=white) ![Dask](https://img.shields.io/badge/Dask-FBA308?style=flat-square&logo=dask&logoColor=white) **Pandas · NumPy · Distributed Computing** |
-| **Data Transformation** | ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white) **ETL/ELT Architectures · Data Quality Frameworks · Great Expectations** |
-| **Cloud & Infra** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Lambda · S3 · API Gateway · Linux** |
-| **Storage & DBs** | ![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) **Vector Databases (ChromaDB, FAISS) · Redshift** |
-| **DevOps & CI/CD** | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) **CodePipeline · Git · Clean Code** |
-| **AI Data Ops** | **Data Flywheels · Dataset Curation · Annotation Workflows · Model Performance Monitoring** |
+|---|---|
+| ASR & Acoustic Modelling | RNN-Transducer · CTC · Whisper (LoRA) · WFST Decoding · MFCC · Mel-Filterbanks |
+| TTS & Voice Synthesis | Cartesia TTS · Real-Time Voice Serving · Multi-Speaker Pipelines |
+| Real-Time Voice Stack | LiveKit Agents · Deepgram STT · Silero VAD · Multilingual Turn Detection · BVC Noise Cancellation |
+| Model Compression | Knowledge Distillation · LoRA Fine-Tuning · ONNX · Quantisation · Latency Optimisation |
+| LLM & Agentic AI | LangChain · LangGraph · ReAct · RAG Pipelines · ChromaDB · Claude · OpenAI · Gemini |
+| Deep Learning | PyTorch · PyTorch Lightning · HuggingFace Transformers · Scikit-learn · Optuna |
+| MLOps & Cloud | Python (Advanced) · Docker · CI/CD · Git · AWS (Lambda · S3 · EC2 · Bedrock · CloudWatch) |
 
 ---
 
-<h3 align="center">🔥GitHub Statistics🔥</h3>
+🔬 Highlighted Projects
 
-<!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center">
-  <picture>
-    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=nancyboukamel-ds&hide_border=true&theme=nightowl" />
-</p>
-<p align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=nancyboukamel-ds&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> 
-    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancyboukamel-ds&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-</p>
+🎙️ **Noise-Robust ASR — Master Thesis @ Cardo Systems**
+Lightweight RNN-T/CTC ASR for embedded devices · Knowledge Distillation · 98% compression · 75% latency reduction · Macro F1 >0.8 across motorcycle / skiing / cycling noise profiles
 
-![](/assets/images/grad.gif)
+🤖 **LiveKit Multi-Agent Voice AI**
+Real-time conversational agent · Deepgram STT + Cartesia TTS + Silero VAD + GPT-4o-mini · 3-agent architecture with tool orchestration and handoff logic · Deployed in production
+
+🧠 **RAG Agentic System**
+LangGraph ReAct agent · ChromaDB vector search · Anthropic Claude · Async FastAPI · Docker
+
+📝 **GPT from Scratch**
+Transformer LLM built from first principles · Attention · Tokenisation · Training pipeline · Perplexity evaluation
 
 ---
 
-## 🤝 Connect with Me
-
-* **LinkedIn:** [https://www.linkedin.com/in/nancy-bou-kamel/] 
-* **Email:** nancyboukamel12@gmail.com
+🏆 1st Place — Facebook Women Hackathon 2021
+🌍 Berlin, Germany · English C1 · German B2 · Arabic Native
+📩 nancyboukamel12@gmail.com · [LinkedIn](https://linkedin.com/in/nancy-bou-kamel) · [GitHub](https://github.com/nancyboukamel-ds)
