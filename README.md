@@ -2,7 +2,7 @@
 
 🎙️ Speech & Audio AI Engineer | ASR · TTS · Voice AI · LLM · Production ML
 
-Passionate about building AI systems that understand, generate, and reason about sound. My research and engineering practice lives at the intersection of speech recognition, acoustic modelling, and real-time voice AI from embedded hardware to cloud-native conversational agents.
+Passionate about building AI systems that understand, generate, and reason about sound. My engineering practice lives at the intersection of speech recognition, acoustic modelling, and real-time voice AI from embedded hardware to cloud-native conversational agents.
 
 I completed my M.Sc. Data Science with a Thesis GPA of 1.0, dedicating my research to lightweight, noise-robust ASR on battery-powered embedded devices compressing a 1 GB model to <500K parameters using Knowledge Distillation, achieving 75% latency reduction and Macro F1 >0.8 across all real-world noise conditions.
 
