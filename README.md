@@ -1,4 +1,4 @@
-Nancy Bou Kamel — AI Engineer
+Nancy Bou Kamel  AI Engineer
 M.Sc. Data Science · Thesis GPA: 1.0 · Berlin
 
 I build production AI systems that run reliably and fail loudly.
